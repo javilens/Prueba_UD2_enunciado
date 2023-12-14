@@ -12,5 +12,8 @@ public class App {
         figura2.setNumLados(4);
         figura2.showInfo();
         
+
+    
+        
     }
 }
